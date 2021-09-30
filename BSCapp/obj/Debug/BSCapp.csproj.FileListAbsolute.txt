@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\BSCapp\BSCapp\bin\Debug\BSCapp.exe
+C:\Users\HP\source\repos\BSCapp\BSCapp\bin\Debug\BSCapp.pdb
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.Form1.resources
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.Properties.Resources.resources
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.exe
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.pdb
+C:\Users\HP\source\repos\BSCapp\BSCapp\obj\Debug\BSCapp.csprojAssemblyReference.cache
